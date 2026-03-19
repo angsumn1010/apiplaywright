@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1643","Create and delete Article","webkit","2026-03-19","passed","2026-03-19","","firstTest.spec.ts","",""
+"","2035","Create Update and delete Article","webkit","2026-03-19","passed","2026-03-19","","firstTest.spec.ts","",""
+"","643","Get Articles","webkit","2026-03-19","passed","2026-03-19","","firstTest.spec.ts","",""
+"","5","check condition","webkit","2026-03-19","passed","2026-03-19","","firstTest.spec.ts","",""
+"","523","Get test tags","webkit","2026-03-19","passed","2026-03-19","","firstTest.spec.ts","",""
